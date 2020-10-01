@@ -7,5 +7,5 @@
 </p>
 
 <p dir="rtl" align="center">
-  <img alt="WPF Custom Text Field" src="./Docs/Preview.png">
+  <img alt="WPF Custom Text Field" src="./Docs/Preview.gif">
 </p>
